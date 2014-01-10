@@ -21,7 +21,7 @@ public class Gallons2Liters {
         liters = gallons * 3.8754; //initializes tha numba of gallunz
         
         //outputs the conversion to the screen
-        System.out.println(gallons + " gallons is " + liters + " liters" + "\n" + "Peace Out!");
+        System.out.println(gallons + " gallons is " + liters + " liters" + "\n" + "Peace Out!!!");
         
     }
 }
